@@ -1,6 +1,6 @@
 # 📊 Business Sales Dashboard from E-commerce Data
 
-# About the Task
+## About the Task
 
 In this real-world internship task, I have work with e-commerce sales data to build a professional, interactive dashboard. The goal is to help business owners and decision-makers understand:
 
@@ -10,7 +10,7 @@ In this real-world internship task, I have work with e-commerce sales data to bu
 
 - Which categories or regions bring the most revenue?
 
-# What I have done:
+## What I have done:
 
 - Cleaned and organize raw sales data (Excel/CSV format).
 
@@ -20,7 +20,7 @@ In this real-world internship task, I have work with e-commerce sales data to bu
 
 - Present insights and recommendations as if you were helping a real business.
 
-# Skills I have Gain:
+## Skills I have Gain:
 
 - 💡 Data cleaning & transformation
 - 📆 Time series trend analysis
